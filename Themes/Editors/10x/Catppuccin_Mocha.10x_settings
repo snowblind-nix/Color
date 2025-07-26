@@ -194,7 +194,7 @@ Editor.Find.Brace/Bracket Highlight:   73, 77, 100
 Editor.Find.Bracket Highlight:         73, 77, 100
 
 # 
-Editor.Breakpoint:                     255, 0, 0
+Editor.Breakpoint:                     243, 139, 168
 
 # 
 Editor.Whitespace:                     default
@@ -272,7 +272,7 @@ UI.FolderTreeNode:                     249, 226, 175
 10x.Setting.True:                      255, 255, 255
 
 # 
-10x.Setting.False:                     255, 0, 0
+10x.Setting.False:                     243, 139, 168
 
 # 
 Html.ElementName:                      247, 191, 120
@@ -390,4 +390,3 @@ UI.UpdatedLine:                        default
 
 # 
 UI.SavedLine:                          default
-
