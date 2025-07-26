@@ -2,4 +2,4 @@
 
 Themes:
   - Editors:
-    - 10x
+    - 10x <Catppuccin_Mocha>
