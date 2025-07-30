@@ -83,7 +83,7 @@ Language.Text:                         205, 214, 244
 Language.Background:                   24, 24, 37
 
 # 
-Language.Number:                       205, 214, 244
+Language.Number:                       239, 159, 118
 
 # 
 Language.Keyword:                      203, 166, 247
@@ -94,38 +94,38 @@ Language.Preprocessor:                 243, 139, 168
 # 
 Language.Comment:                      88, 91, 112
 
-# 
-Language.Brace:                        137, 220, 235
+#
+Language.Brace:                        148, 226, 213
+
+#
+Language.Bracket:                      148, 226, 213
 
 # 
-Language.Bracket:                      137, 220, 235
+Language.SquareBracket:                148, 226, 213
+
+#
+Language.SemiColon:                    148, 226, 213
 
 # 
-Language.SquareBracket:                137, 220, 235
-
-# 
-Language.SemiColon:                    137, 220, 235
-
-# 
-Language.Operator:                     116, 199, 236
+Language.Operator:                     148, 226, 213
 
 # 
 Language.String:                       166, 227, 161
 
 # 
-Language.Comma:                        137, 220, 235
+Language.Comma:                        205, 214, 244
 
-# 
-Language.Class:                        78, 201, 176
+#
+Language.Class:                        229, 200, 144
 
-# 
-Language.Function:                     249, 226, 175
+#
+Language.Function:                     140, 170, 238
 
-# 
-Language.Enum:                         78, 201, 176
+#
+Language.Enum:                         202, 158, 230
 
-# 
-Language.Enum Value:                   184, 215, 163
+#
+Language.Enum Value:                   239, 159, 118
 
 # 
 Language.Variable:                     205, 214, 244
@@ -137,13 +137,13 @@ Language.MemberVariable:               205, 214, 244
 Language.Namespace:                    205, 214, 244
 
 # 
-Language.Typedef:                      78, 201, 176
+Language.Typedef:                      243, 139, 168
 
 # 
-Language.Type:                         86, 156, 214
+Language.Type:                         202, 158, 230
 
 # 
-Language.MemberFunction:               249, 226, 175
+Language.MemberFunction:               140, 170, 238
 
 # 
 Editor.Line Numbers:                   88, 91, 112
@@ -161,7 +161,7 @@ TreeNodeText:                          205, 214, 244
 TreeNodeTextActive:                    203, 166, 247
 
 # 
-Build.BuildWarning:                    243, 139, 168
+Build.BuildWarning:                    250, 179, 13
 
 # 
 UI.UI Highlight:                       73, 77, 100
@@ -190,7 +190,7 @@ Search.HighlightLineColour:            73, 77, 100
 # 
 Editor.Find.Brace/Bracket Highlight:   73, 77, 100
 
-
+#
 Editor.Find.Bracket Highlight:         73, 77, 100
 
 # 
@@ -356,19 +356,19 @@ UI.ScrollBarFindMatchHighlight:        73, 77, 100
 UI.ScrollBarWordMatchHighlight:        73, 77, 100
 
 # 
-Editor.BraceDepth1:                    166, 227, 161
+Editor.BraceDepth1:                    243, 139, 168
 
 # 
 Editor.BraceDepth2:                    250, 179, 135
 
 # 
-Editor.BraceDepth3:                    137, 180, 250
+Editor.BraceDepth3:                    249, 226, 175
 
 # 
-Editor.BraceDepth4:                    243, 139, 168
+Editor.BraceDepth4:                    166, 227, 161
 
 # 
-Editor.BraceDepth5:                    249, 226, 175
+Editor.BraceDepth5:                    116, 199, 236
 
 # 
 Editor.BraceDepth6:                    203, 166, 247
