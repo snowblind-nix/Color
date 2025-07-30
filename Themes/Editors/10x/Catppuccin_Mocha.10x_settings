@@ -1,6 +1,3 @@
-# Format: <SettingName>: <Settingvalue>
-# Setting name must appear at start of line and there must be whitespace after the colon.
-
 # 
 UI.UI:                                 17, 17, 27
 
@@ -104,7 +101,7 @@ Language.Bracket:                      148, 226, 213
 Language.SquareBracket:                148, 226, 213
 
 #
-Language.SemiColon:                    148, 226, 213
+Language.SemiColon:                    205, 214, 244
 
 # 
 Language.Operator:                     148, 226, 213
@@ -190,7 +187,7 @@ Search.HighlightLineColour:            73, 77, 100
 # 
 Editor.Find.Brace/Bracket Highlight:   73, 77, 100
 
-#
+
 Editor.Find.Bracket Highlight:         73, 77, 100
 
 # 
